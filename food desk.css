@@ -1,0 +1,86 @@
+/* *{
+    margin:0;
+	padding: 0;
+} */
+
+.image{
+    width: 40vw;
+	height: 70vh;
+}
+.main-heading{
+    font-family: "Bahnschrift SemiBold";
+    font-size: 55px;
+    font-weight: 550;
+    color: #ff7300;
+}
+.heading{
+    font-family: "Bahnschrift SemiBold";
+    font-size: 25px;
+    font-weight: 400;
+    color: #000;
+    text-decoration: underline;
+}
+.para{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #000;
+}
+#sign-in{
+    background-color: #ff7300;
+    color: #fff;
+}
+#sign-in:hover{
+	background-color: #fff;
+	color: black;
+    border-color: #ff7300;
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #000;
+}
+.google1{
+    color: #4285F4;
+}
+.google2{
+    color: #DB4437;
+}
+.google3{
+    color: #F4B400;
+}
+.google4{
+    color: #4285F4;
+}
+.google5{
+    color: #0F9D58;
+}
+.google6{
+    color: #DB4437;
+}
+a {
+    text-decoration: none;
+}
+.fa-facebook{
+    color: #3B5998;
+    font-size: 20px;
+}
+#fb{
+    color: #3B5998;
+}
+.fa-google{
+    background-image: conic-gradient(
+        from -30deg at 40% 50%,#EA4335 0deg, #EA4335 90deg, #4285F4 90deg, #4285F4 180deg, #34A853 180deg, #34A853 270deg, #FBBC05 270deg, #FBBC05 360deg);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#li{
+    color: #0E76A8;
+}
+.fa-linkedin{
+   color: #0072b1;
+   font-size: 17px;
+}
+a:hover {
+   color: #000;
+}
